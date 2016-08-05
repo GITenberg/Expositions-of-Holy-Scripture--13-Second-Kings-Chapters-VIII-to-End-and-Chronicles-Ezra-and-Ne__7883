@@ -1,0 +1,29 @@
+_repo: Expositions-of-Holy-Scripture--13-Second-Kings-Chapters-VIII-to-End-and-Chronicles-Ezra-and-Ne__7883
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maclaren, Alexander
+    alias: McLaren, Alexander
+    birthdate: 1826
+    deathdate: 1910
+    gutenberg_agent_id: '2330'
+    url: http://www.gutenberg.org/2009/agents/2330
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Maclaren
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7883'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Historical Books -- Commentaries'
+- !lcsh 'Bible. Hagiographa -- Commentaries'
+- !lcc 'BS'
+- GITenberg
+title: "Expositions of Holy Scripture\r\nSecond Kings Chapters VIII to End and Chronicles,\
+  \ Ezra, and Nehemiah. Esther, Job, Proverbs, and Ecclesiastes"
+url: http://www.gutenberg.org/ebooks/7883
